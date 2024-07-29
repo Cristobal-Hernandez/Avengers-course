@@ -17,6 +17,6 @@
 * Vision
 * Wasp
 * Antman
-
 * Deadpool
 * Wolverine
+* Nick Fury
